@@ -10,3 +10,5 @@ enterprise-cloud-services-website.zip
 2ccloud-site-4-bkp2.zip
 2ccloud-site-bkp-3.zip
 2ccloud-site-bkp-4.zip
+# Backup ZIP files
+*.zip
